@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, Welcome to legendsSystems</h1>
-<h3 align="center">FiveM modifications including scripts, maps, clothing, vehicles, and peds</h3>
+<h3 align="center">legendsSystems is a Development Group that creates FiveM modifications including scripts, maps, clothing, vehicles, and peds</h3>
 
-- 🔭 I’m currently working on [all Things FiveM](https://tebex.legends.systems)
+- 🔭 Resources available: [tebex.legends.systems](https://tebex.legends.systems)
 
-- 🌱 I’m currently learning **nodejs, react, go**
+- 🌱  Check out our website: [legends.systems](https://legends.systems)
 
-- 👯 I’m looking to collaborate on **FiveM via Kubernetes**
+- 👯  Forums and Discussions: [forums.legends.systems](https://forums.legends.systems)
 
-- 🤝 I’m looking for help with **nodejs**
+- 🤝  Check out our website at [docs.legends.systems](https://docs.legends.systems)
 
-- 👨‍💻 All of my projects are available at [https://legends.systems](https://legends.systems)
-
-- 📝 I regularly write articles on [https://blog.legends.systems](https://blog.legends.systems)
-
-- 💬 Ask me about **lua, mysql, caching, hosting**
-
-- 📫 How to reach me **https://discord.gg/a8fbNhU3Kt**
+- 📫 How to reach us **https://discord.gg/a8fbNhU3Kt**
 
 - ⚡ Fun fact **square + triangle = circle**
 
