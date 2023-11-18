@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to legendsSystems</h1>
 <h3 align="center">legendsSystems is a Development Group that creates FiveM modifications including scripts, maps, clothing, vehicles, and peds</h3>
 
-- 🔭 Resources available: [tebex.legends.systems](https://tebex.legends.systems)
-
-- 🌱  Check out our website: [legends.systems](https://legends.systems)
-
-- 👯  Forums and Discussions: [forums.legends.systems](https://forums.legends.systems)
-
-- 🤝  Check out our website: [docs.legends.systems](https://docs.legends.systems)
 
 - 📫 How to reach us: **https://discord.gg/a8fbNhU3Kt**
 
